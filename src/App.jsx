@@ -130,7 +130,7 @@ const App = () => {
 
       <div className="wrapper">
         <header>
-          <img src="./hero.png" alt="Hero Banner" className="mt-[20px] mb-[60px] scale-120"/>
+          <img src="./hero.png" alt="Hero Banner" className="mt-[20px] mb-[60px] scale-130"/>
           <h1>The Best <span className="text-gradient">Anime</span> List</h1>
           <Search searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
         </header>
