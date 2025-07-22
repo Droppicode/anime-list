@@ -1,5 +1,3 @@
-![alt text](image.png)
-
 ## <a name="introduction">Introduction</a>
 
 Built with React.js for the user interface, Express.js and SQLite3 for backend, and styled with TailwindCSS, this Anime List lets users browse trending animes, search titles, and explore content using the **[Jikan API](https://jikan.moe/)**.
