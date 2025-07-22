@@ -1,31 +1,25 @@
+![alt text](image.png)
+
 ## <a name="introduction">Introduction</a>
 
-Built with React.js for the user interface, Express.js and SQLite3 for backend, and styled with TailwindCSS, this Anime List lets users browse trending animes, search titles, and explore content using the Jikan API.
+Built with React.js for the user interface, Express.js and SQLite3 for backend, and styled with TailwindCSS, this Anime List lets users browse trending animes, search titles, and explore content using the **[Jikan API](https://jikan.moe/)**.
 
 ## <a name="tech-stack">Tech Stack</a>
 
-- **[React.js](https://react.dev/reference/react)** 
+- **[React.js](https://react.dev/)** - **[React-use](https://github.com/streamich/react-use)** - **[Tailwind CSS](https://tailwindcss.com/)** 
 
-- **[React-use](https://github.com/streamich/react-use)** 
-
-- **[Tailwind CSS](https://tailwindcss.com/)** 
-
-- **[Vite](https://vite.dev/)** 
-
-- **[Express.js](https://expressjs.com/pt-br/)**
-
-- **[SQLite3](https://www.npmjs.com/package/sqlite3)**
+- **[Vite](https://vite.dev/)** - **[Express.js](https://expressjs.com/pt-br/)** - **[SQLite3](https://www.npmjs.com/package/sqlite3)**
 
 
 ## <a name="features">Features</a>
 
 - **Browse Animes**: Explore all animes available on the Jikan API.
 
-- **Search Animes**: Search for specific animes using a search function.
+- **Search Animes**: Efficiently find specific anime titles using a responsive search bar.
 
-- **Trending Animes**: Displays the most searched animes on the website.
+- **Trending Animes**: Discover popular and most-searched animes, reflecting real-time user interest.
 
-- **Backend**: Manages it's own backend that tracks the most searched animes.
+- **Backend**: Manages data persistence for trending anime tracking and serves as an API for the frontend.
 
 and many more...
 
